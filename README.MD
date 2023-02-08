@@ -39,4 +39,4 @@
   
 ## :fire: Stats:
   [![GitHub Streak](https://streak-stats.demolab.com?user=Kosmosman)](https://git.io/streak-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kosmosman&show_icons=true&theme=tokyonight)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kosmosman&show_icons=true&theme=dark)
