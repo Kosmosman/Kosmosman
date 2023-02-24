@@ -17,7 +17,7 @@
   <a href= https://github.com/Kosmosman?tab=repositories&q=&type=&language=c&sort= > <img width ='64px' src  ='https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg'> </a>
   <a href= https://github.com/Kosmosman?tab=repositories&q=&type=&language=c%2B%2B&sort= > <img width ='64px' src   ='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg'> </a>
   <a href= https://github.com/Kosmosman?tab=repositories > <img width ='64px' src     ='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'> </a>
-  <a href= https://github.com/Kosmosman?tab=repositories > <img width='64px' src='https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg'> </a>
+  <a href= https://github.com/Kosmosman?tab=repositories&q=&type=&language=go&sort= > <img width='64px' src='https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg'> </a>
 </div>
 
 ## :file_cabinet: Databases:
