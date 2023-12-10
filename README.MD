@@ -25,7 +25,7 @@
 <div>
   <a href= https://github.com/Kosmosman?tab=repositories&q=&type=&language=plpgsql&sort= > <img width ='64px' src  ='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg'> </a>
   
-## :star: Frameworks:
+## Frameworks:
   
 <div>
   <a href= https://github.com/Kosmosman?tab=repositories&q=&type=&language=c%2B%2B&sort= > <img width ='64px' src   ='https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg'> </a>
