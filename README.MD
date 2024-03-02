@@ -6,9 +6,8 @@
 </div>
 
 ## About Me:
-- :desktop_computer: I am a Junior Backend Developer
-- <img src="https://img.shields.io/badge/-%20-blue?style=flat-square&logo=cplusplus"/> Have some project on C/C++
-- :briefcase: Now, I am currently looking for a job and open to offers!
+- :desktop_computer: I am a Junior Go Backend Developer
+- <img src="https://img.shields.io/badge/-%20-blue?style=flat-square&logo=cplusplus"/> Have some project on C/C++ and Go
 - You can contact me <a href="mailto:oninthebest@gmail.com">![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat-square&logo=gmail)</a> or via [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram)](https://t.me/kosmosman)
 
 ## Languages:
